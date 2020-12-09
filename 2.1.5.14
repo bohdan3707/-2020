@@ -10,7 +10,7 @@ int main()
     scanf("%f", &pi);
     printf("How many days in the week: %d\n", seven);
     printf("The value of Pi to two points: %.2f\n", pi);
-    printf("There are %d in a week\n", seven);
+    printf("There are %d days in the week\n", seven);
     printf("Pi value is %f\n", pi);
 	/* your code */
 	return 0;
